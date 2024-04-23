@@ -1,0 +1,17 @@
+---
+title: "My Second Page"
+
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(iris)
+```
+
+```{r}
+plot(iris)
+```
+
